@@ -12,7 +12,7 @@ Tableau Public Link
 Users tend to use bikes for short trips. The vast percentage of users riding for 20 minutes or less.
 
 ### Checkout Times by Genders
-
+(https://github.com/jipelletier/bikesharing/blob/main/Ex2.png)
 Analyzing the bike usage by gender comes to show thaat men are more often users than women or unknown. Men are using over three times the number of rides for rides lasting at a 10 min average.
 
 ### Trips by Weekday for Each Hour
