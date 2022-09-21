@@ -36,4 +36,16 @@ The map details the starting locations with the highest volumes. It appears that
 By looking at the ending locations, we are able to see a similar trend with many of them being in the lower half of Manhatten. Central Park seems to generate traffic which makes sense given that users may like to ride the bikes through the park.
 
 ## Summary
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+After analyzing the above visualizations we are able to determine that:
+
+- A majority of users are male and that most of the riders are annual subscribers
+- Peak riding hours are typically during workweek commuting hours and midday during the weekends when riders are more likely to be riding for leisure.
+- Though the map will look different for Des Moines, we can see from the map of starting locations, that most bikes are checked out in more highly populated areas like downtown or near tourist attractions.
+
+Based on these findings, it is recommended that the bike app for Des Moines:
+- Focus on marketing to male riders and offering incentives for subscriptions.
+- Placing more bikes and docking stations near downtown areas, office buildings, and tourist attractions since CitiBike in New York appears to be used primarily for commuting and/or sightseeing.
+
+Recommended Additional Visualizations:
+- A comparison of the number of trips bewteen different months to understand how ridership changes seasonally
+- An analysis of trips by age group by weekday
