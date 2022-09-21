@@ -8,7 +8,7 @@ Tableau Public Link
 [link to dashboard](https://public.tableau.com/app/profile/jordan.pelletier1563/viz/BikesharingAnalysisResults/BikesharingAnalysis?publish=yes)
 
 ### Checkout Times for Users
-![Ex1.png](https://github.com/jipelletier/UFOs/blob/main/filter2.png)
+![Ex1.png](https://github.com/jipelletier/bikesharing/blob/main/Ex1.png)
 Users tend to use bikes for short trips. The vast percentage of users riding for 20 minutes or less.
 
 ### Checkout Times by Genders
